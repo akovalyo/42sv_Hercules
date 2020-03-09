@@ -5,7 +5,7 @@ During 12 weeks, try to walk among the half-gods by doing the infamous twelve la
 ### 00 The Nemian Lion
 
 ```diff
-+ Final result: 100/100
++ Result: 100/100
 ```
 
 Using VMware/VirtualBox box you have to create a virtual machine running the
