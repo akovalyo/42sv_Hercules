@@ -12,7 +12,7 @@
 ### Steps to create **client**
 
 1. Create socket
-2. Use [connect() fucntion](to connect to the address of the server)
+2. Use [connect() fucntion](http://man7.org/linux/man-pages/man2/connect.2.html) to connect to the address of the server
 3. Send and receiv data
 4. Close socket
 
