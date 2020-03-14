@@ -22,14 +22,16 @@
 
 #### Server
 
-```
+```bash
 ./server [port]
-``` 
+
+```
 
 or
 
 ```
 ./server
+
 ```
 *Default port 8080*
 
@@ -37,8 +39,11 @@ or
 
 ```
 ./client [hostname] [port] [option]
+
 ```
 
-[hostname]	the name of the host on which the server is running, on single mashine use "localhost", mandatory argument
-[port]		port number on which the server is listening for connections (by default port is 8080), not mandatory argument
-[Option] 	**-d** -   ping server (by default manual communication), not mandatory argument.
+**[hostname]**    the name of the host on which the server is running, on single mashine use "localhost", mandatory argument
+
+**[port]**        port number on which the server is listening for connections (by default port is 8080), not mandatory argument
+
+**[Option]**      **-d** -   ping server (by default manual communication), not mandatory argument.
