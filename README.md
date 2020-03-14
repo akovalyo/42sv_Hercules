@@ -14,7 +14,7 @@ change the default ssh port to the port you deem hidden enough.
 
 ***
 
-### 01 Hydra :dragon:
+### 01 Lernaean Hydra :dragon:
 
 For this project and in order to start subduing sockets, you have to build a server
 that to every ping would respond with two pong.
