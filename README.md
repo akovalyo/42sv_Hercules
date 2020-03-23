@@ -20,3 +20,10 @@ For this project and in order to start subduing sockets, you have to build a ser
 that to every ping would respond with two pong.
 
 ***
+
+### 02 Ceryneian Hind :horse:
+
+This project aims to give a basic approach on a REST API, how it works and po-
+tentially give a brief understanding on how web API are made.
+
+The goal is to write a script in any language that will use 42’s API to find where people are located in the zones.
