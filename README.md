@@ -27,3 +27,11 @@ This project aims to give a basic approach on a REST API, how it works and po-
 tentially give a brief understanding on how web API are made.
 
 The goal is to write a script in any language that will use 42’s API to find where people are located in the zones.
+
+***
+
+### 03 Erymanthian Boar :boar:
+
+The goal of this project is to schedule a one time task at a precise date and time.
+
+This project aims to give you a small approach on timed command and their execution.
