@@ -35,3 +35,11 @@ The goal is to write a script in any language that will use 42’s API to find w
 The goal of this project is to schedule a one time task at a precise date and time.
 
 This project aims to give you a small approach on timed command and their execution.
+
+***
+
+### 04 Augean Stables :ox:
+
+This project aims to help you get the basic notions of freeing memory.
+
+Using Valgrind and/or GDB or even without any of these tools you need to make sure that our program has no more memory leaks.
