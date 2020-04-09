@@ -1,6 +1,6 @@
 # 42sv_Hercules - akovalyo
 
-### Hercules has not survived :face_with_thermometer: Viktim of coronavirus :biohazard:
+### Hercules has not survived :face_with_thermometer: Victim of coronavirus :biohazard:
 
 ***
 
